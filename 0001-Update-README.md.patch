@@ -1,0 +1,23 @@
+From 4c97d5d109646e32714023910ea819e22464ba07 Mon Sep 17 00:00:00 2001
+From: Danish Sharma <40580306+danish45007@users.noreply.github.com>
+Date: Sun, 5 Jan 2020 22:52:57 +0530
+Subject: [PATCH] Update README.md
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 15cf717..793a4cd 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,5 @@
+ # real_time_us-elections-2020
+ ###Based real time tweets using sentiment analysis on those tweets and ploting real time graph based on the polarity
+ - Using twitter Api directed all the tweets having "Trump" or "Warren".
+-- Based on polarity (positive,negative or neutral) sorted all the tweets using 
++- Based on polarity (positive,negative or neutral) sorted all the tweets using sentimnet sentiment analysis
++- After storing it into csv file used matplot animation to plot continous real time graph
+-- 
+2.24.0.windows.2
+
