@@ -7,10 +7,10 @@ import re
 import csv
 
 
-consumer_key = "F2j30sUAjjJ9DbJ2syuUPZ8fV"
-consumer_secret = "NwPt2uw0Nn5KdTzrF3tIyY4s7dyqSFg5u9w8gHFxJB8rT9bKkm"
-access_token = "1202176110458327041-3VCpfSk3MQ5JejuAtfayULbFO6pqZJ"
-access_token_secret = "NeZhjZrEE7dUmyw6718AfP2ZoSa4cs2CWPpuK4iAAUkl6"
+consumer_key = "**************************************************"
+consumer_secret = "************************************************"
+access_token = "**************************************************"
+access_token_secret = "***********************************************"
 
 
 
